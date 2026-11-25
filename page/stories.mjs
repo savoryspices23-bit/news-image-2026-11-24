@@ -16,7 +16,7 @@ export const REGIONS = [
 export const LEADS = [
   {
     n: 1, region: 'Asia', place: 'Taipei to New York', field: 'markets', src: 'CNA, CNBC', scene: 'chipRide',
-    chip: 'Chips soar, sink', at: [25, 121.5],
+    chip: 'Chip rally fades', at: [25, 121.5],
     head: 'Taiwan’s biggest points gain ever; hours later, Nvidia falls 6%',
     text: 'Seoul jumped 6.3%, then the Nasdaq closed 1.5% down.',
   },
@@ -53,7 +53,7 @@ export const TILES = [
   {
     n: 7, region: 'Africa', place: 'Dakar', field: 'football', src: 'AP, BBC', scene: 'africaCup',
     chip: 'Senegal reinstated', at: [14.7, -17.4],
-    head: 'Court takes Africa Cup from Morocco, gives it back',
+    head: 'Court restores Senegal’s Africa Cup, strips Morocco',
   },
   {
     n: 8, region: 'Middle East', place: 'Gaza City', field: 'war', src: 'BBC', scene: 'gaza',
@@ -72,7 +72,7 @@ export const TILES = [
   },
   {
     n: 11, region: 'Africa', place: 'DR Congo', field: 'health', src: 'AFP', scene: 'ebola',
-    chip: 'Ebola team pulled', at: [1.6, 30.2],
+    chip: 'Ebola evacuation', at: [1.6, 30.2],
     head: 'WHO evacuates staff trapped 3 days by fighting in Ituri',
   },
   {
